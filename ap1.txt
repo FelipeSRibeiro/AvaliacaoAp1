@@ -1,0 +1,7 @@
+git clone: clonar o repositório criado na conta do Github;
+
+git add: usado para adicionar arquivos a sacola;
+
+git commit: registra as mudanças no repositório confirmando elas;
+
+git push: envia as alterações feitas no repositório local para o repositório remoto.
