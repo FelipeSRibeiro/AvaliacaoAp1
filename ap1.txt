@@ -5,3 +5,13 @@ git add: usado para adicionar arquivos a sacola;
 git commit: registra as mudanças no repositório confirmando elas;
 
 git push: envia as alterações feitas no repositório local para o repositório remoto.
+
+
+
+
+
+
+
+texto linha 15
+
+texto linha 17
