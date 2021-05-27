@@ -5,3 +5,7 @@ git add: usado para adicionar arquivos a sacola;
 git commit: registra as mudanças no repositório confirmando elas;
 
 git push: envia as alterações feitas no repositório local para o repositório remoto.
+
+Objetivo do trabalho: Praticar fork e pull request entre repositórios.
+
+Trabalho em equipe: Felipe e Alessandro. 
